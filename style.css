@@ -1,3 +1,29 @@
+/*task2*/
+.data1 { 
+    text-align: center;
+    margin-bottom: 1cm; 
+}
+.datatable { 
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .datatable th {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid white; 
+  }
+  .datatable td {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+  }
+  .datstable {
+    border: 1px solid white;
+  }
+/*task1&3*/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -55,3 +81,24 @@ header {
     flex-wrap: wrap;
   }
   
+
+/*task 4*/
+#field{
+    background-color: blue;
+}
+#buttton{
+    background-color: orange;
+    margin-right: 1cm;
+}
+#h1{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+/*task 5*/
+#member{
+    font-weight: bold;
+}
+#list{
+    border: 1px solid black;
+    width:10%;
+}
