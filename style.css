@@ -1,8 +1,9 @@
-.data1 { /* h1 from data.html */
+/*
+.data1 { 
     text-align: center;
     margin-bottom: 1cm; 
 }
-.datatable { /* table from data.html */
+.datatable { 
     width: 100%;
     border-collapse: collapse;
   }
@@ -21,4 +22,4 @@
   }
   .datstable {
     border: 1px solid white;
-  }
+  }*/
