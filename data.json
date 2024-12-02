@@ -1,0 +1,19 @@
+{
+    "Computer Software": [
+        {
+            "pillar": "Programs",
+            "Description": "Programs are sets of instructions that tell a computer how to perform specific tasks, enabling functionality in various software applications.",
+            "Applications": ["Word Processors", "Web Browsers", "Gaming Software"]
+        },
+        {
+            "pillar": "Cybersecurity",
+            "Description": "Cybersecurity focuses on defending computer systems, networks, and data from unauthorized access, attacks, or damage.",
+            "Applications": ["Firewall Protection", "Encryption Tools", "Anti-Virus Software"]
+        },
+        {
+            "pillar": "Documentation",
+            "Description": "Documentation provides essential information and guides for using and understanding software, ensuring users can efficiently operate and troubleshoot programs.",
+            "Applications": ["User Manuals", "API Documentation", "Installation Guides"]
+        }
+    ]
+}

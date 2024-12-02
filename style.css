@@ -1,0 +1,24 @@
+.data1 { /* h1 from data.html */
+    text-align: center;
+    margin-bottom: 1cm; 
+}
+.datatable { /* table from data.html */
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .datatable th {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid white; 
+  }
+  .datatable td {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+  }
+  .datstable {
+    border: 1px solid white;
+  }
