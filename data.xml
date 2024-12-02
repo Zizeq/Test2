@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationTechnology>
+    <Field name="Programs">
+    <Description>Programs are sets of instructions that tell a computer how to perform specific tasks, enabling functionality in various software applications.</Description>
+    <Applications>
+        <Application>Word Processors</Application>
+        <Application>Web Browsers</Application>
+        <Application>Productivity Software</Application>
+    </Applications>
+</Field>
+
+<Field name="Cybersecurity">
+    <Description>Cybersecurity focuses on protecting software systems, networks, and data from cyber threats, ensuring the integrity and confidentiality of information.</Description>
+    <Applications>
+        <Application>Antivirus Software</Application>
+        <Application>Firewalls</Application>
+        <Application>Encryption Tools</Application>
+    </Applications>
+</Field>
+
+<Field name="Documentation">
+    <Description>Documentation provides essential information and guides for using and understanding software applications, helping users navigate and troubleshoot programs.</Description>
+    <Applications>
+        <Application>User Guides</Application>
+        <Application>API Documentation</Application>
+        <Application>Installation Manuals</Application>
+    </Applications>
+</Field>
+
+<Field name="SoftwareDevelopment">
+    <Description>Software development involves creating, designing, and maintaining software applications to meet the needs of users and businesses.</Description>
+    <Applications>
+        <Application>Mobile Applications</Application>
+        <Application>Web Development</Application>
+        <Application>Enterprise Software</Application>
+    </Applications>
+</Field>
+</InformationTechnology>
